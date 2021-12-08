@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-4">
       <div class="pt-4 flex max-w-xs mx-auto items-center justify-evenly">
         <a
-          href="https://nemotivity.website/"
+          href="https://nemotivity.dev/"
           target="_blank"
           rel="noopener noreferrer"
           class="
