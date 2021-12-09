@@ -51,7 +51,6 @@ export default {
             amount: 5,
             format: "hex",
           });
-          console.log(color);
           emitter.emit("color", color);
         }
       });
