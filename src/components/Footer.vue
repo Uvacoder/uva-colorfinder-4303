@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto px-4">
       <div class="pt-4 flex max-w-xs mx-auto items-center justify-evenly">
         <a
-          href="https://nemotivity.dev/"
+          href="https://github.com/uvacoder"
           target="_blank"
           rel="noopener noreferrer"
           class="
@@ -59,7 +59,7 @@
           </svg>
         </a>
         <a
-          href="https://github.com/nemo0"
+          href="https://github.com/uvacoder"
           target="_blank"
           rel="noopener noreferrer"
           class="
@@ -90,7 +90,7 @@
           </svg>
         </a>
         <a
-          href="https://www.linkedin.com/in/subha-chanda/"
+          href="https://www.linkedin.com/in/alecbcampbell/"
           target="_blank"
           rel="noopener noreferrer"
           class="
@@ -136,7 +136,7 @@
       >
         Made with <span class="text-red-500">❤</span> by
         <a href="https://twitter.com/Ami_Subha" target="_blank" rel="noopener">
-          @Ami_Subha</a
+          @uvacoder</a
         >
       </div>
     </div>
