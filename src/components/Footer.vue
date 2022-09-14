@@ -28,7 +28,7 @@
           </svg>
         </a>
         <a
-          href="https://twitter.com/Ami_Subha"
+          href="https://twitter.com/VaLandscapes"
           target="_blank"
           rel="noopener noreferrer"
           class="
@@ -135,8 +135,8 @@
         "
       >
         Made with <span class="text-red-500">❤</span> by
-        <a href="https://twitter.com/Ami_Subha" target="_blank" rel="noopener">
-          @uvacoder</a
+        <a href="https://twitter.com/VaLandscapes" target="_blank" rel="noopener">
+          @VaLandscapes</a
         >
       </div>
     </div>
