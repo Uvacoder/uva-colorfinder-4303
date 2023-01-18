@@ -135,8 +135,8 @@
         "
       >
         Made with <span class="text-red-500">❤</span> by
-        <a href="https://twitter.com/VaLandscapes" target="_blank" rel="noopener">
-          @VaLandscapes</a
+        <a href="https://github.com/uvacoder" target="_blank" rel="noopener">
+          uvacoder</a
         >
       </div>
     </div>
